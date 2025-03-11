@@ -1,0 +1,5 @@
+[core]
+    remote = origin
+['remote "origin"']
+    url = s3://examen-dvc
+    endpointurl = https://dagshub.com/Magali863/examen-dvc.s3
